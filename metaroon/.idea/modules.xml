@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intern.iml" filepath="$PROJECT_DIR$/intern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/metaroon.iml" filepath="$PROJECT_DIR$/.idea/metaroon.iml" />
     </modules>
   </component>
 </project>
